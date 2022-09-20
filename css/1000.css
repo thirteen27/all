@@ -17,10 +17,7 @@
     
 }
 
-.cedric {
-    width: 50%;
-    margin-left: 25%;
-}
+
 
 .wrapper2  {
     
@@ -76,3 +73,16 @@
 }
     
 
+#cedric{
+    border-radius: 35px;
+    width: 20%;
+    margin: 0 40%;
+    margin-top: 20px;
+
+}
+
+h1,h2, h3 {
+    font-size: 50px;
+    text-align: center;
+
+}
