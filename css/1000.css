@@ -17,9 +17,13 @@
     
 }
 
+.cedric {
+    width: 50%;
+    margin-left: 25%;
+}
+
 .wrapper2  {
-    background-image: url(/photos/cedric.jpg);
-    background-size: contain;
+    
     overflow-y: scroll;
     background-color: #2C3E50 ;
     width: 70%;
@@ -29,6 +33,7 @@
 }
 
 .wrapper3  {
+    
     width: 100%;
 }
 
